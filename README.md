@@ -23,4 +23,4 @@ https://developer.atlassian.com/display/DOCS/Introduction+to+the+Atlassian+Plugi
 
 pom文件配置<enableQuickReload>true</enableQuickReload>，在插件运行时，可直接修改代码，运行atlas-mvn package即可部署
 
-![插件运行效果图](https://github.com/zhaolin1998/jira-plugin/blob/master/img_v3_029h_802d2a13-7137-46b3-866e-78842a3588bg.jpg)
+![插件运行效果图](img_v3_029h_802d2a13-7137-46b3-866e-78842a3588bg.jpg)
